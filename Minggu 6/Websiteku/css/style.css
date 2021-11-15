@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+nav {
+margin:auto;
+text-align: center;
+width: 100%;
+font-family:monospace;
+} 
+
+nav ul {
+background:#a473b1;
+padding: 5px;
+list-style:none;
+position:relative;
+display:inline-table;
+width: 100%;
+}
+
+nav ul li{
+float:left;
+}
+
+nav ul li:hover{
+background:rgb(198, 38, 212);
+}
+
+nav ul li:hover a{
+    color:#000;
+}
+
+nav ul li a{
+    display: block;
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+    
+}

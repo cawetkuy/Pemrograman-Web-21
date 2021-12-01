@@ -1,0 +1,27 @@
+body{
+    background: #278bdd;
+    font-family: roboto;
+    text-align: center;
+}
+h1,h2{
+    color: #fff;
+}
+.kotak1{
+    background: #cc00ff;
+    padding: 20px;
+    float: left;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+}
+.kotak2{
+    background: #f127d7;
+    padding: 20px;
+    float: left;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+    -ms-transform: translate(80px,150px); /* Support IE 9 */
+    -webkit-transform: translate(80px,150px); /* support Safari */
+    transform: translate(80px,150px); /* Standard syntax */
+}

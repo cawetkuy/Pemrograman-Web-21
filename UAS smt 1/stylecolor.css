@@ -1,0 +1,212 @@
+/*STYLE HEADER*/
+body{
+    background-image: url(https://1.bp.blogspot.com/-4c90ZKGOGmA/YGFX7DyQK7I/AAAAAAAAIMY/7SOJOJy7WQUOcmDbFA6WEe6zu4sh8IhqQCLcBGAsYHQ/s1920/pastel-kuning-hijau.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+}
+.topnav{
+    background-color: #CFAF89;
+    height: 75px;
+    width: 1368px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.menu{
+    margin-left: 80px;
+    margin-top: -45px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Century Gothic';
+    padding: 30px;
+
+}
+.iconlogo{
+    width: 60px;
+    margin-top: 9px;
+    margin-left: 15px;
+}
+.iconuser{
+    width: 30px;
+    float: right;
+    margin-top: -30px;
+    margin-right: 60px;
+    
+}
+.login_signup a{
+    text-decoration: none;
+    float: right;
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 15px;
+    padding: 15px;
+}
+.login_signup{
+    margin-top: -10px;
+}
+.menudropdown{
+    margin-left: 345px;
+    margin-top: -21px;
+}
+.dropdown {
+    display: none;
+    list-style: none;
+}
+.dropdown li{
+    margin-bottom: 20px;
+}
+.dropdown li a{
+    color: black;
+}
+.menudropdown:hover .dropdown{
+    display: block;
+    position: absolute;
+    background-color: #cfb089ad;
+    padding: 10px;
+}
+.menu a:hover{
+    color: white;
+}
+/*STYLE FOOTER*/
+.end{
+    background-color: #CFAF89;
+    height: 56px;
+    width: 1368px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+    margin-top: 10px
+}
+.endteks p{
+    text-align: center;
+    margin-top: -25px;
+    margin-bottom: 5px;
+    font-family: 'Garamond';
+}
+.copyright{
+    float: right;
+    margin-top: -35px;
+    margin-right: 20px;
+}
+.icon img{
+    width: 30px;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+#help{
+    margin-top: -25px;
+    margin-left: 210px;
+}
+.icon a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+.color-picker script{
+    padding: 20px;
+}
+.basecolor button{
+    padding: 13.5px;
+    border: none;
+    border-radius: 2px;
+    margin-left: 20px;
+}
+.basecolor{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #d09c9cb2;
+    width: 350px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.lacecolor button{
+    padding: 13.5px;
+    border: none;
+    border-radius: 2px;
+    margin-left: 20px;
+}
+.lacecolor{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #d09c9cb2;
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.soles button{
+    padding: 13.5px;
+    border: none;
+    border-radius: 2px;
+    margin-left: 20px;
+}
+.soles{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #d09c9cb2;
+    width: 210px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.fabric button{
+    padding: 13.5px;
+    border: none;
+    border-radius: 2px;
+    margin-left: 20px;
+}
+.fabric{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #d09c9cb2;
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.listbahan{
+    width: 1325px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bahan{
+    width: 20%;
+    margin: 0 auto;
+}
+.bahan img{
+    width: 200px;
+    background-color: #b8afa99f;
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.position{
+    margin-left: 290px;
+}
+.position1{
+    margin-left: 710px;
+    margin-top: -120px;
+}
+.position2{
+    margin-left: 285px;
+}
+.position3{
+    margin-left: 710px;
+    margin-top: -110px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+.position p{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.position1 p{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.position2 p{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.position3 p{
+    font-family: 'Balsamiq Sans', cursive;
+}

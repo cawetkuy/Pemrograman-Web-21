@@ -1,0 +1,151 @@
+/*STYLE HEADER*/
+body{
+    background-image: url(https://1.bp.blogspot.com/-4c90ZKGOGmA/YGFX7DyQK7I/AAAAAAAAIMY/7SOJOJy7WQUOcmDbFA6WEe6zu4sh8IhqQCLcBGAsYHQ/s1920/pastel-kuning-hijau.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+.topnav{
+    background-color: #CFAF89;
+    height: 75px;
+    width: 1368px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.menu{
+    margin-left: 80px;
+    margin-top: -45px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Century Gothic';
+    padding: 30px;
+
+}
+.iconlogo{
+    width: 60px;
+    margin-top: 9px;
+    margin-left: 15px;
+}
+.iconuser{
+    width: 30px;
+    float: right;
+    margin-top: -30px;
+    margin-right: 60px;
+    
+}
+.login_signup a{
+    text-decoration: none;
+    float: right;
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 15px;
+    padding: 15px;
+}
+.login_signup{
+    margin-top: -10px;
+}
+.menudropdown{
+    margin-left: 345px;
+    margin-top: -21px;
+}
+.dropdown {
+    display: none;
+    list-style: none;
+}
+.dropdown li{
+    margin-bottom: 20px;
+}
+.dropdown li a{
+    color: black;
+}
+.menudropdown:hover .dropdown{
+    display: block;
+    position: absolute;
+    background-color: #cfb089ad;
+    padding: 10px;
+}
+.menu a:hover{
+    color: white;
+}
+/*STYLE FOOTER*/
+.end{
+    background-color: #CFAF89;
+    height: 56px;
+    width: 1368px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+    margin-top: 10px
+}
+.endteks p{
+    text-align: center;
+    margin-top: -25px;
+    margin-bottom: 5px;
+    font-family: 'Garamond';
+}
+.copyright{
+    float: right;
+    margin-top: -35px;
+    margin-right: 20px;
+}
+.icon img{
+    width: 30px;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+#help{
+    margin-top: -25px;
+    margin-left: 210px;
+}
+.icon a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+/*STYLE DESIGN SHOES*/
+.designlist{
+    width: 1325px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.design{
+    width: 20%;
+    margin: 0 auto;
+}
+.design img{
+    width: 200px;
+    background-color: black;
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.uploadfile{
+    background-color: rgba(216, 235, 145, 0.747);
+    padding: 20px;
+    border-radius: 20px;
+}
+.submit{
+    border: none;
+    color: black;
+    background-color: rgb(227, 250, 94);
+    border-radius: 20px;
+    padding: 10px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+h1, p{
+    font-family: 'Itim', cursive;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+.tombolsave input{
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(33, 214, 33);
+    border-radius: 10px;
+}

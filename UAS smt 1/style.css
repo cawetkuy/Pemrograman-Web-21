@@ -1,0 +1,155 @@
+/*STYLE HEADER*/
+body{
+    background-image: url(https://1.bp.blogspot.com/-4c90ZKGOGmA/YGFX7DyQK7I/AAAAAAAAIMY/7SOJOJy7WQUOcmDbFA6WEe6zu4sh8IhqQCLcBGAsYHQ/s1920/pastel-kuning-hijau.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+}
+.topnav{
+    background-color: #CFAF89;
+    height: 75px;
+    width: 1368px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.menu{
+    margin-left: 80px;
+    margin-top: -45px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Century Gothic';
+    padding: 30px;
+
+}
+.iconlogo{
+    width: 60px;
+    margin-top: 9px;
+    margin-left: 15px;
+}
+.iconuser{
+    width: 30px;
+    float: right;
+    margin-top: -30px;
+    margin-right: 60px;
+    
+}
+.login_signup a{
+    text-decoration: none;
+    float: right;
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 15px;
+    padding: 15px;
+}
+.login_signup{
+    margin-top: -10px;
+}
+.menu a:hover{
+    color: white;
+}
+/*STYLE FOOTER*/
+.end{
+    background-color: #CFAF89;
+    height: 56px;
+    width: 1368px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+    margin-top: 10px
+}
+.endteks p{
+    text-align: center;
+    margin-top: -25px;
+    margin-bottom: 5px;
+    font-family: 'Garamond';
+}
+.copyright{
+    float: right;
+    margin-top: -35px;
+    margin-right: 20px;
+}
+.icon img{
+    width: 30px;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+#help{
+    margin-top: -25px;
+    margin-left: 210px;
+}
+.icon a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+.menudropdown{
+    margin-left: 345px;
+    margin-top: -21px;
+}
+.dropdown {
+    display: none;
+    list-style: none;
+}
+.dropdown li{
+    margin-bottom: 20px;
+}
+.dropdown li a{
+    color: black;
+}
+.menudropdown:hover .dropdown{
+    display: block;
+    position: absolute;
+    background-color: #cfb089ad;
+    padding: 10px;
+}
+
+/*=======================================================================================================================*/
+/*STYLE UNTUK HOME*/
+.tutorial{
+    background-color: #d8a474d5;
+    margin-left: 800px;
+    margin-top: -430px;
+    padding-top: 1px;
+    padding-left: 20px;
+    border-radius: 40px;
+}
+.ptutorial{
+    margin-left: 60px;
+    margin-top: -70px;
+    font-family: Cambria;
+    font-size: 14pt;
+}
+.tutorial1{
+    margin-top: -10px;
+}
+.tutorial2{
+    margin-left: 300px;
+    margin-top: -155px;
+}
+.tutorial3{
+    margin-top: -10px;
+}
+.tutorial4{
+    margin-left: 300px;
+    margin-top: -185px;
+}
+.tutorial5{
+    margin-top: 75px;
+    padding-bottom: 1px;
+}
+.judul{
+    font-family: 'Brush Script MT';
+    font-size: 40px;
+    text-align: center;
+    margin-right: 550px;
+    margin-top: 70px;
+}
+.judulteks{
+    font-family: 'Bookman Old Style';
+    text-align: center;
+    font-size: 20px;
+    margin-right: 570px;
+    margin-top: -40px;
+}
